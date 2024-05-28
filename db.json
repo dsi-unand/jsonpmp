@@ -1,14 +1,14 @@
 {
-  courses: [
+  "courses": [
     {
-      id: 1212,
-      course: "Pemograman Web"
-      class: "A"
+      "id": 1212,
+      "course": "Pemograman Web"
+      "class": "A"
     },
     {
-      id: 1213,
-      course: "Pemograman Teknologi Bergerak"
-      class: "A"
+      "id": 1213,
+      "course": "Pemograman Teknologi Bergerak"
+      "class": "A"
     }
   ]
 }
